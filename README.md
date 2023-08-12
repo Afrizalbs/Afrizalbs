@@ -1,10 +1,8 @@
 Hi 👋 My name is Afrizal Bagas
 ==============================
 
-React Native Developer
+Frontend Engginer
 ----------------------
-
-Saya sudah belajar react native selama 2 tahun. saya memulai belajar coding pada tahun 2019 yaitu HTML, CSS dan Javascript. Saya memiliki ketertarikan mobile development menggunakan react native dan juga sedang mendalami Front End Web dan terus mengasah logika bahasa javascript.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [afrizalbagas.03@gmail.com](mailto:afrizalbagas.03@gmail.com)
