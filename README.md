@@ -1,7 +1,7 @@
 Hi 👋 My name is Afrizal Bagas
 ==============================
 
-Frontend Engginer
+Frontend Engineer 
 ----------------------
 
 * 🌍  I'm based in Indonesia
